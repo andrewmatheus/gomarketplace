@@ -37,7 +37,9 @@ $ npm install
 > Localhost
 ```
 $ yarn android
+```
 or
+```
 $ yarn ios
 ```
 
