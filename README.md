@@ -4,8 +4,7 @@
 
 - _**Detalhes do desafio**_: [desafio8](https://github.com/Rocketseat/bootcamp-gostack-desafios/tree/master/desafio-fundamentos-react-native)
 
-![Preview-Screens](https://github.com/andrewmatheus/gofinancesreactjs/blob/master/gofinancesListagem.jpg)
-![Preview-ScreensImport](https://github.com/andrewmatheus/gofinancesreactjs/blob/master/gofinancesImportar.jpg)
+![Preview-Gifs](https://github.com/andrewmatheus/gomarketplace/blob/master/GoMarketPlace2.gif)
 
 ## About this Project
 
@@ -18,9 +17,9 @@
 **Cloning the Repository**
 
 ```
-$ git clone https://github.com/andrewmatheus/gofinancesreactjs.git
+$ git clone https://github.com/andrewmatheus/gomarketplace.git
 
-$ cd gofinancesreactjs
+$ cd gomarketplace
 ```
 
 **Installing dependencies**
@@ -37,12 +36,14 @@ $ npm install
 
 > Localhost
 ```
-$ yarn start
+$ yarn android
+or
+$ yarn ios
 ```
 
 > Teste
 
-![test](https://github.com/andrewmatheus/gofinancesreactjs/blob/master/gofinancesTest.jpg)
+![test](https://github.com/andrewmatheus/gomarketplace/blob/master/gomarketplacetest.jpg)
 
 ```
 $ yarn test
